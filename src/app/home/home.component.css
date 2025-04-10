@@ -1,0 +1,11 @@
+.img-responsiva {
+    width: 100%; /* Ocupa todo o espaço disponível */
+    max-width: 800px; /* Tamanho máximo */
+    height: auto; /* Ajusta a altura proporcionalmente */
+  }
+  .image-container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Adapta a altura para ocupar toda a tela */
+  }
